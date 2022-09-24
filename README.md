@@ -12,6 +12,10 @@
 <img height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocamacho&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
+<p>
+ <img height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocamacho&layout=compact"/>
+ </p>
+
 &nbsp;&nbsp;
 
 ## Total Profile Visits:detective:
