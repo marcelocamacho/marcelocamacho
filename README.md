@@ -19,4 +19,5 @@
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/marcelocamacho/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=marcelocamacho)
  </p>
